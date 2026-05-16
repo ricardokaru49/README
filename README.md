@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ricardo+Karu;Web+%26+Android+Developer;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Ricardo+T.+Karu;Mobile+%26+Web+Developer;UI%2FUX+Designer+%26+IT+Trainer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -9,96 +9,111 @@
   <a href="https://github.com/ricardokr_" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:rkaru997@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://wa.me/6289521248416" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
 </div>
 
 <br>
 
-<table align="center" border="0" style="border-collapse: collapse;">
+<table align="center" border="0" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="60%" valign="top">
-      <h2>👤 About Me</h2>
-      <p>🚀 <b>Web & Android Developer</b> yang antusias dalam membangun aplikasi modern dengan performa tinggi.</p>
-      <p>💡 Berpengalaman merancang dan mengimplementasikan solusi digital menggunakan teknologi web dan mobile terkini.</p>
-      <p>🔥 Memiliki ketertarikan kuat pada <i>Artificial Intelligence</i>. Terbiasa mengintegrasikan AI seperti <b>Gemini</b> dan <b>Claude</b> untuk meningkatkan produktivitas, automasi, dan efisiensi pengembangan aplikasi.</p>
-      <p>🎯 Fokus pada penciptaan ekosistem aplikasi yang <b>responsive</b>, <b>modern</b>, dan <b>user-friendly</b>.</p>
-      <p>📚 <i>Lifelong learner</i> — selalu mengeksplorasi tren teknologi baru untuk terus <i>level-up</i> skill development.</p>
+    <td width="65%" valign="top" style="border: none;">
+      <h2>About Me</h2>
+      <p>Mahasiswa Pendidikan Teknologi Informasi dan Komunikasi (PTIK), Fakultas Teknik, Universitas Negeri Manado. Berfokus penuh pada pengembangan aplikasi mobile, web, dan perancangan UI/UX yang berorientasi pada pengalaman pengguna premium.</p>
+      <p>Setiap proyek dikerjakan dengan standar industri yang ketat demi memastikan hasil yang cepat, kualitas arsitektur kode yang terjaga, serta keandalan sistem yang dapat dipercaya sepenuhnya oleh klien maupun pengguna akhir.</p>
+      <p><strong>Career Goal:</strong> Menjadi Web & Mobile Developer profesional yang menghadirkan solusi digital berdampak nyata bagi ekosistem teknologi modern.</p>
+      <p><strong>Lokasi:</strong> Pakuure Dua, Tenga, Minahasa Selatan, Sulawesi Utara, Indonesia.</p>
     </td>
-    <td width="40%" align="center" valign="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation"/>
+    <td width="35%" align="center" valign="middle" style="border: none;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 8px;" alt="Development Animation"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Academic Background & Achievements
 
-<div align="center">
-
-<table>
+<table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td align="center"><b>🌐 Frontend Development</b></td>
-    <td align="center"><b>📱 Android Development</b></td>
-    <td align="center"><b>🎨 Design & UI/UX</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java,kotlin,firebase,androidstudio" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" height="32"/></td>
+    <td width="50%" valign="top">
+      <h3>Education</h3>
+      <p><strong>Universitas Negeri Manado</strong><br>
+      S1 Pendidikan Teknologi Informasi dan Komunikasi<br>
+      Fakultas Teknik | 2022 - Sekarang</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Honors & Awards</h3>
+      <p><strong>Juara 1 Lomba Video Kreatif</strong><br>
+      Engineering Expo 2023<br>
+      Fakultas Teknik, Universitas Negeri Manado</p>
+    </td>
   </tr>
 </table>
 
-<br>
-
-**🤖 Development & AI Platforms** <br><br>
-<img src="https://skillicons.dev/icons?i=github,vscode,git" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
-
-</div>
+### Research & Publications
+* **Pengembangan Media Pembelajaran Interaktif Berbasis Game Edukatif dengan Pendekatan TPACK**
+  * Media pembelajaran interaktif "Adventure Education" dikembangkan menggunakan GDevelop 5 dengan model pengembangan ADDIE.
+  * Skor Validasi Ahli Media & Materi: **86%** (Sangat Layak)
+  * Skor Hasil Uji Pengguna: **86.5%** (Sangat Layak)
 
 ---
 
-## 📊 GitHub Analytics
+## Core Technical Expertise
 
 <div align="center">
-  <a href="https://github.com/ricardokr_">
-    <img src="https://github-readme-stats.vercel.app/api?username=ricardokr_&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  </a>
-  <a href="https://github.com/ricardokr_">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardokr_&theme=tokyonight&hide_border=false" width="48%" />
-  </a>
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%"><strong>Mobile Development</strong></td>
+    <td align="center" width="33%"><strong>Web Development</strong></td>
+    <td align="center" width="33%"><strong>Tools & Platforms</strong></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio" /><br><br>
+      Kotlin (85%)<br>Java (75%)
+    </td>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=html,css,js" /><br><br>
+      HTML/CSS (90%)<br>JavaScript (80%)
+    </td>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=firebase,vscode,figma" />
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" height="24"/><br>
+      CapCut | GDevelop
+    </td>
+  </tr>
+</table>
+
 </div>
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/ricardokr_">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardokr_&theme=tokyonight&hide_border=false&layout=compact" width="60%" />
-  </a>
-</div>
+### Soft Skills & Professional Attributes
+* **Individual Work:** Mandiri, fokus, dan bertanggung jawab penuh pada setiap penyelesaian tugas secara berdedikasi.
+* **Fast Learner:** Sangat adaptif terhadap teknologi baru dan perubahan dinamis pada spesifikasi proyek.
+* **Problem Solver:** Terbiasa melakukan identifikasi akar masalah demi melahirkan solusi teknis yang efisien.
+* **Attention to Detail:** Memastikan presisi tinggi pada setiap komponen UI, logika sistem, serta alur pengalaman pengguna.
 
 ---
 
-## 🏆 Achievements & Trophies
+## Featured Project
 
-<div align="center">
-
-<a href="https://github.com/ricardokr_">
-  <img src="https://github-profile-trophy.vercel.app/?username=ricardokr_&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1&column=6" />
-</a>
-
-</div>
+### Class Connect — Android & Backend Full-Stack Developer
+Aplikasi monitoring aktivitas siswa berbasis Android yang dirancang untuk menyederhanakan pengelolaan kehadiran di lingkungan sekolah modern.
+* **Fitur Utama:** Pelacakan lokasi secara real-time, notifikasi geo-fencing otomatis, dan sistem absensi berbasis QR Code terintegrasi.
+* **Teknologi yang Digunakan:** Kotlin, Android Studio, Firebase Backend, Geo-Fencing API, Push Notification.
 
 ---
 
-<div align="center">
+## Professional Services & Workflow
 
-### *"Code. Learn. Build. Repeat."*
-<br>
-<img src="https://komarev.com/ghpvc/?username=ricardokr_&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+Aktivitas pengembangan mencakup Website & Mobile App Development mulai dari tahap perencanaan, desain antarmuka, hingga implementasi penuh dengan mengutamakan tiga pilar: **Fast, Quality, and Trusted**.
 
-</div>
+```text
+[01] Konsultasi & Analisis -> [02] Perencanaan Teknologi -> [03] Desain UI/UX Modern
+                                                                   |
+[06] Deploy & Publikasi    <- [05] Testing & QA Bebas Bug <- [04] Pengembangan Kode
