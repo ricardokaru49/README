@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.co/v4m5H9q/ricardo-karu-header.png" width="100%" alt="RICARDO T. KARU - Web & Mobile Developer Banner" />
+  <img src="https://i.ibb.co.co/v6W7X6C/ricardo-karu-header-upgraded.png" width="100%" alt="RICARDO T. KARU - Web & Mobile Developer - Premium Banner with Skills & Education" />
 </div>
 
 <div align="center">
@@ -21,13 +21,14 @@
 
 <table align="center" border="0" style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td width="60%" valign="top" style="padding-right: 20px;">
-      <img src="https://img.shields.io/badge/PROFILE-SUMMARY-0E75B6?style=for-the-badge" alt="Profile Summary Header" />
+    <td width="65%" valign="top" style="padding-right: 20px;">
+      <img src="https://img.shields.io/badge/PROFILE-SUMMARY-0E75B6?style=for-the-badge" alt="Profile Summary" />
+      <h3>Mobile & Web Solutions Specialist</h3>
       <p>Mahasiswa Pendidikan Teknologi Informasi dan Komunikasi (PTIK), Fakultas Teknik, Universitas Negeri Manado. Berfokus penuh pada pengembangan aplikasi mobile, web, dan perancangan UI/UX yang berorientasi pada pengalaman pengguna premium.</p>
       <p>Setiap proyek dikerjakan dengan standar industri yang ketat demi memastikan hasil yang cepat, kualitas arsitektur kode yang terjaga, serta keandalan sistem yang dapat dipercaya sepenuhnya.</p>
-      <img src="https://img.shields.io/badge/CAREER_GOAL-Professional_Developer-green?style=flat-square" alt="Career Goal" />
+      <img src="https://img.shields.io/badge/PROFESSIONAL_COMMITMENT-QUALITY_RESULTS-green?style=flat-square" alt="Quality Results Commitment" />
     </td>
-    <td width="40%" align="center" valign="middle">
+    <td width="35%" align="center" valign="middle">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 8px;" alt="Development Animation"/>
     </td>
   </tr>
@@ -37,24 +38,19 @@
 
 <table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px;">
   <tr bgcolor="#161b22">
-    <th width="50%" align="left" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/ACADEMIC-BACKGROUND-informational?style=flat-square&logo=googleacademic&logoColor=white" alt="Education" />
-    </th>
-    <th width="50%" align="left" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/HONORS-AWARDS-success?style=flat-square&logo=reach&logoColor=white" alt="Awards" />
+    <th colspan="2" align="left" style="padding: 10px;">
+      <img src="https://img.shields.io/badge/ACADEMIC-ACHIEVEMENT-0E75B6?style=for-the-badge" alt="Academic & Achievement" />
     </th>
   </tr>
   <tr>
-    <td valign="top" style="padding: 15px;">
+    <td width="50%" valign="top" style="padding: 15px;">
+      <h3>Education</h3>
       <strong>Universitas Negeri Manado</strong><br>
       S1 Pendidikan Teknologi Informasi dan Komunikasi<br>
-      Fakultas Teknik | 2022 - Sekarang<br>
-      <br>
-      <em>Research & Publication: media pembelajaran interaktif "Adventure Education" Berbasis GDevelop 5 (ADDIE Model).</em><br>
-      <img src="https://img.shields.io/badge/Media_Validation-86%25-blue?style=flat-square" alt="Media 86" />
-      <img src="https://img.shields.io/badge/User_Testing-86.5%25-blue?style=flat-square" alt="User 86.5" />
+      Fakultas Teknik | 2022 - Sekarang
     </td>
-    <td valign="top" style="padding: 15px;">
+    <td width="50%" valign="top" style="padding: 15px;">
+      <h3>Honors</h3>
       <strong>Juara 1 Lomba Video Kreatif</strong><br>
       Engineering Expo 2023<br>
       Fakultas Teknik, Universitas Negeri Manado
@@ -65,30 +61,35 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TECHNICAL-EXPERTISE-0E75B6?style=for-the-badge" alt="Technical Expertise Header" />
+  <img src="https://img.shields.io/badge/TECHNICAL-EXPERTISE-0E75B6?style=for-the-badge" alt="Technical Expertise" />
 </div>
 <br>
 
 <table width="100%" align="center" style="border-collapse: collapse;">
   <tr>
-    <td align="center" width="33%" valign="top">
-      <img src="https://img.shields.io/badge/MOBILE-DEVELOPMENT-black?style=for-the-badge&logo=android" alt="Mobile" /><br><br>
+    <td align="center" width="25%" valign="top">
+      <img src="https://img.shields.io/badge/MOBILE-black?style=for-the-badge&logo=android" alt="Mobile" /><br><br>
       <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio" /><br><br>
-      <img src="https://img.shields.io/badge/Kotlin-85%25-0E75B6?style=flat-square" alt="Kotlin" />
-      <img src="https://img.shields.io/badge/Java-75%25-0E75B6?style=flat-square" alt="Java" />
+      <img src="https://img.shields.io/badge/Kotlin-85%25-0E75B6?style=flat-square" alt="Kotlin 85%" />
+      <img src="https://img.shields.io/badge/Java-75%25-0E75B6?style=flat-square" alt="Java 75%" />
     </td>
-    <td align="center" width="33%" valign="top">
-      <img src="https://img.shields.io/badge/WEB-DEVELOPMENT-black?style=for-the-badge&logo=googlechrome" alt="Web" /><br><br>
+    <td align="center" width="25%" valign="top">
+      <img src="https://img.shields.io/badge/WEB-black?style=for-the-badge&logo=googlechrome" alt="Web" /><br><br>
       <img src="https://skillicons.dev/icons?i=html,css,js" /><br><br>
-      <img src="https://img.shields.io/badge/HTML/CSS-90%25-0E75B6?style=flat-square" alt="HTML CSS" />
-      <img src="https://img.shields.io/badge/JavaScript-80%25-0E75B6?style=flat-square" alt="JS" />
+      <img src="https://img.shields.io/badge/HTML/CSS-90%25-0E75B6?style=flat-square" alt="HTML CSS 90%" />
+      <img src="https://img.shields.io/badge/JavaScript-80%25-0E75B6?style=flat-square" alt="JavaScript 80%" />
     </td>
-    <td align="center" width="33%" valign="top">
-      <img src="https://img.shields.io/badge/TOOLS_%26_PLATFORMS-black?style=for-the-badge&logo=github" alt="Tools" /><br><br>
-      <img src="https://skillicons.dev/icons?i=firebase,figma,vscode" />
+    <td align="center" width="25%" valign="top">
+      <img src="https://img.shields.io/badge/TOOLS-black?style=for-the-badge&logo=github" alt="Tools" /><br><br>
+      <img src="https://skillicons.dev/icons?i=firebase,figma,vscode" /><br><br>
+      <img src="https://img.shields.io/badge/Git-Professional-white?style=flat-square" alt="Git Pro" />
+      <img src="https://img.shields.io/badge/Firebase-Integration-white?style=flat-square" alt="Firebase Integration" />
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="https://img.shields.io/badge/OTHER-black?style=for-the-badge&logo=adobepremierepro" alt="Other" /><br><br>
       <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" height="24"/><br>
-      <img src="https://img.shields.io/badge/CapCut-Professional-white?style=flat-square" alt="CapCut" />
-      <img src="https://img.shields.io/badge/GDevelop-Layak-white?style=flat-square" alt="GDevelop" />
+      <img src="https://img.shields.io/badge/CapCut-Creative-white?style=flat-square" alt="CapCut Creative" />
+      <img src="https://img.shields.io/badge/IT_Training-Educator-white?style=flat-square" alt="IT Training Educator" />
     </td>
   </tr>
 </table>
@@ -102,13 +103,14 @@
     </th>
   </tr>
   <tr>
-    <td width="70%" valign="top" style="padding: 15px;">
+    <td width="75%" valign="top" style="padding: 15px;">
       <h3>Class Connect</h3>
       <strong>Role: Full-Stack Developer (Android & Backend)</strong>
-      <p>Aplikasi monitoring aktivitas siswa berbasis Android dengan pelacakan lokasi real-time, notifikasi geo-fencing otomatis, dan sistem absensi berbasis QR Code terintegrasi.</p>
-      <img src="https://img.shields.io/badge/Status-Stable_v2.0-success?style=flat-square" alt="Status" />
+      <p>Aplikasi monitoring aktivitas siswa berbasis Android dengan pelacakan lokasi real-time, notifikasi geo-fencing otomatis, dan sistem absensi QR Code.</p>
+      <img src="https://img.shields.io/badge/Status-Stable_v2.0-success?style=flat-square" alt="Stable v2.0" />
+      <img src="https://img.shields.io/badge/Integration-Firebase-white?style=flat-square" alt="Firebase Integration" />
     </td>
-    <td width="30%" align="center" valign="middle" style="padding: 15px;">
+    <td width="25%" align="center" valign="middle" style="padding: 15px;">
       <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase" alt="Tech Stack" />
     </td>
   </tr>
@@ -117,26 +119,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SERVICES_%26_WORKFLOW-0E75B6?style=for-the-badge" alt="Services Header" />
-  <p>Website & Mobile App Development (Fast, Quality, Trusted)</p>
-</div>
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/01-Consult-white?style=for-the-badge&labelColor=black" alt="01" /> &rarr;
-  <img src="https://img.shields.io/badge/02-Plan-white?style=for-the-badge&labelColor=black" alt="02" /> &rarr;
-  <img src="https://img.shields.io/badge/03-Design-white?style=for-the-badge&labelColor=black" alt="03" /> &rarr;
-  <img src="https://img.shields.io/badge/04-Develop-blue?style=for-the-badge&labelColor=black" alt="04" /> &rarr;
-  <img src="https://img.shields.io/badge/05-Test-white?style=for-the-badge&labelColor=black" alt="05" /> &rarr;
-  <img src="https://img.shields.io/badge/06-Deploy-success?style=for-the-badge&labelColor=black" alt="06" />
-</div>
-
-<br>
----
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/GITHUB-ANALYTICS-black?style=for-the-badge" alt="Analytics Header" />
+  <img src="https://img.shields.io/badge/GITHUB-ANALYTICS-black?style=for-the-badge" alt="GitHub Analytics" />
 </div>
 <br>
 
