@@ -76,11 +76,11 @@
   <tr>
     <td align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio" /><br><br>
-      Kotlin (85%)<br>Java (75%)
+      Kotlin <br>Java 
     </td>
     <td align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=html,css,js" /><br><br>
-      HTML/CSS (90%)<br>JavaScript (80%)
+      HTML/CSS <br>JavaScript 
     </td>
     <td align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=firebase,vscode,figma" />
