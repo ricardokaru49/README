@@ -1,122 +1,119 @@
 <div align="center">
-
-# R I C A R D O &nbsp;&nbsp; T . &nbsp;&nbsp; K A R U
-<br>
-
-<code><b> MOBILE DEVELOPER </b></code> &nbsp;▪&nbsp; <code><b> WEB DEVELOPER </b></code> &nbsp;▪&nbsp; <code><b> UI/UX DESIGNER </b></code>
-<br><br>
-
-[ ✉️ EMAIL ](mailto:rkaru997@gmail.com) &nbsp;&nbsp; | &nbsp;&nbsp; [ 📱 WHATSAPP ](https://wa.me/6289521248416) &nbsp;&nbsp; | &nbsp;&nbsp; [ 🌐 GITHUB ](https://github.com/ricardokr_) &nbsp;&nbsp; | &nbsp;&nbsp; [ 📸 INSTAGRAM ](https://instagram.com/ricardokr_)
-
-<br>
-<i>"Code. Learn. Build. Repeat."</i>
-<br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Ricardo+T.+Karu;Mobile+%26+Web+Developer;UI%2FUX+Designer+%26+IT+Trainer" alt="Typing SVG" />
 </div>
 
-<hr>
-
-### ◈ EXECUTIVE SUMMARY
-
-Mahasiswa **Pendidikan Teknologi Informasi dan Komunikasi, Fakultas Teknik, Universitas Negeri Manado**. Memiliki *passion* mendalam di pengembangan aplikasi mobile, web, dan desain yang berorientasi pada pengalaman pengguna premium. Setiap proyek dikerjakan dengan standar industri yang konsisten: hasil cepat, arsitektur kode yang terstruktur, dan keandalan sistem yang dapat dipercaya sepenuhnya oleh klien maupun pengguna akhir.
-
-> **Career Goal:** Web & Mobile Developer profesional yang menghadirkan solusi digital berdampak nyata.
-> **Location:** Pakuure Dua, Minahasa Selatan, Sulawesi Utara, Indonesia.
-
-<br>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### ◈ EDUCATION & ACADEMICS
-
-**Universitas Negeri Manado**
-*S1 Pendidikan Teknologi Informasi dan Komunikasi*
-Fakultas Teknik | 2022 – Sekarang
+<div align="center">
+  <a href="https://instagram.com/ricardokr_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/ricardokr_" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:rkaru997@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/6289521248416" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</div>
 
 <br>
 
-**Publikasi Ilmiah:**
-*Pengembangan Media Pembelajaran Interaktif Berbasis Game Edukatif dengan Pendekatan TPACK*
-▪ Pengembangan media "Adventure Education" berbasis GDevelop 5 menggunakan model ADDIE.
-▪ Validasi Ahli Media & Materi: **86%** (Sangat Layak)
-▪ Hasil Uji Pengguna: **86.5%** (Sangat Layak)
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ HONORS & AWARDS
-
-🏆 **JUARA 1 - Lomba Video Kreatif**
-Engineering Expo 2023
-*Fakultas Teknik, Universitas Negeri Manado*
-
-<br>
-
-### ◈ PROFESSIONAL ATTRIBUTES
-
-▪ **Individual Work:** Mandiri, fokus, dan bertanggung jawab penuh tanpa perlu pengawasan konstan.
-▪ **Fast Learner:** Adaptif terhadap teknologi baru dan kebutuhan proyek yang berubah dinamis.
-▪ **Problem Solver:** Identifikasi akar masalah untuk solusi teknis yang efektif.
-▪ **Attention to Detail:** Presisi tinggi pada komponen UI, logika, dan alur sistem.
-
-</td>
-</tr>
+<table align="center" border="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="65%" valign="top" style="border: none;">
+      <h2>About Me</h2>
+      <p>Mahasiswa Pendidikan Teknologi Informasi dan Komunikasi (PTIK), Fakultas Teknik, Universitas Negeri Manado. Berfokus penuh pada pengembangan aplikasi mobile, web, dan perancangan UI/UX yang berorientasi pada pengalaman pengguna premium.</p>
+      <p>Setiap proyek dikerjakan dengan standar industri yang ketat demi memastikan hasil yang cepat, kualitas arsitektur kode yang terjaga, serta keandalan sistem yang dapat dipercaya sepenuhnya oleh klien maupun pengguna akhir.</p>
+      <p><strong>Career Goal:</strong> Menjadi Web & Mobile Developer profesional yang menghadirkan solusi digital berdampak nyata bagi ekosistem teknologi modern.</p>
+      <p><strong>Lokasi:</strong> Pakuure Dua, Tenga, Minahasa Selatan, Sulawesi Utara, Indonesia.</p>
+    </td>
+    <td width="35%" align="center" valign="middle" style="border: none;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 8px;" alt="Development Animation"/>
+    </td>
+  </tr>
 </table>
 
-<br>
+---
 
-### ◈ TECHNICAL EXPERTISE
+## Academic Background & Achievements
 
-<table width="100%">
-<tr>
-<td width="40%" valign="top">
-
-**CORE LANGUAGES**
-<br>
-
-`HTML / CSS` &nbsp;&nbsp; [█████████░] **90%**
-`Kotlin    ` &nbsp;&nbsp; [████████░░] **85%**
-`JavaScript` &nbsp;&nbsp; [████████░░] **80%**
-`Java      ` &nbsp;&nbsp; [███████░░░] **75%**
-
-</td>
-<td width="60%" valign="top">
-
-**TECH STACK & TOOLS**
-<br>
-
-▪ **Mobile & Backend:** Android Studio, Firebase, Kotlin, Java
-▪ **Web Development:** HTML5, CSS3, JavaScript modern
-▪ **Design & Creative:** Figma, Canva, CapCut
-▪ **IDE & Environment:** Visual Studio Code, Git, GDevelop
-
-**SKILL DISTRIBUTION**
-`Mobile: 35%` | `Web: 30%` | `Design: 20%` | `Lainnya: 15%`
-
-</td>
-</tr>
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Education</h3>
+      <p><strong>Universitas Negeri Manado</strong><br>
+      S1 Pendidikan Teknologi Informasi dan Komunikasi<br>
+      Fakultas Teknik | 2022 - Sekarang</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Honors & Awards</h3>
+      <p><strong>Juara 1 Lomba Video Kreatif</strong><br>
+      Engineering Expo 2023<br>
+      Fakultas Teknik, Universitas Negeri Manado</p>
+    </td>
+  </tr>
 </table>
 
-<br>
+### Research & Publications
+* **Pengembangan Media Pembelajaran Interaktif Berbasis Game Edukatif dengan Pendekatan TPACK**
+  * Media pembelajaran interaktif "Adventure Education" dikembangkan menggunakan GDevelop 5 dengan model pengembangan ADDIE.
+  * Skor Validasi Ahli Media & Materi: **86%** (Sangat Layak)
+  * Skor Hasil Uji Pengguna: **86.5%** (Sangat Layak)
 
-### ◈ FEATURED PROJECT
+---
 
-> **CLASS CONNECT (v2.0 Stable)**
-> *Role: Full Stack Developer (Android & Backend)*
+## Core Technical Expertise
 
-Aplikasi monitoring aktivitas siswa berbasis Android dengan pelacakan lokasi *real-time*, notifikasi *geo-fencing* otomatis, dan sistem absensi QR Code terintegrasi yang dirancang untuk menyederhanakan pengelolaan kehadiran di lingkungan sekolah modern.
+<div align="center">
 
-**Key Implementations:**
-<kbd>Kotlin</kbd> <kbd>Android Studio</kbd> <kbd>Firebase Backend</kbd> <kbd>Geo-Fencing</kbd> <kbd>QR Code Attendance</kbd> <kbd>Push Notification</kbd>
+<table width="100%">
+  <tr>
+    <td align="center" width="33%"><strong>Mobile Development</strong></td>
+    <td align="center" width="33%"><strong>Web Development</strong></td>
+    <td align="center" width="33%"><strong>Tools & Platforms</strong></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio" /><br><br>
+      Kotlin (85%)<br>Java (75%)
+    </td>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=html,css,js" /><br><br>
+      HTML/CSS (90%)<br>JavaScript (80%)
+    </td>
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=firebase,vscode,figma" />
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" height="24"/><br>
+      CapCut | GDevelop
+    </td>
+  </tr>
+</table>
 
-<br>
+</div>
 
-### ◈ SERVICES & WORKFLOW
+### Soft Skills & Professional Attributes
+* **Individual Work:** Mandiri, fokus, dan bertanggung jawab penuh pada setiap penyelesaian tugas secara berdedikasi.
+* **Fast Learner:** Sangat adaptif terhadap teknologi baru dan perubahan dinamis pada spesifikasi proyek.
+* **Problem Solver:** Terbiasa melakukan identifikasi akar masalah demi melahirkan solusi teknis yang efisien.
+* **Attention to Detail:** Memastikan presisi tinggi pada setiap komponen UI, logika sistem, serta alur pengalaman pengguna.
 
-Layanan pengembangan website dan aplikasi mobile yang dirancang sesuai spesifikasi pengguna. Fokus pada kualitas, performa, dan kemudahan. (*Fast, Quality, Trusted*)
+---
+
+## Featured Project
+
+### Class Connect — Android & Backend Full-Stack Developer
+Aplikasi monitoring aktivitas siswa berbasis Android yang dirancang untuk menyederhanakan pengelolaan kehadiran di lingkungan sekolah modern.
+* **Fitur Utama:** Pelacakan lokasi secara real-time, notifikasi geo-fencing otomatis, dan sistem absensi berbasis QR Code terintegrasi.
+* **Teknologi yang Digunakan:** Kotlin, Android Studio, Firebase Backend, Geo-Fencing API, Push Notification.
+
+---
+
+## Professional Services & Workflow
+
+Aktivitas pengembangan mencakup Website & Mobile App Development mulai dari tahap perencanaan, desain antarmuka, hingga implementasi penuh dengan mengutamakan tiga pilar: **Fast, Quality, and Trusted**.
 
 ```text
-[01] Konsultasi & Analisis ➔ [02] Perencanaan Sistem ➔ [03] Desain UI/UX
-                                                                 ↓
-[06] Deploy & Maintenance  ← [05] Testing & QA (Bug Free) ← [04] Development
+[01] Konsultasi & Analisis -> [02] Perencanaan Teknologi -> [03] Desain UI/UX Modern
+                                                                   |
+[06] Deploy & Publikasi    <- [05] Testing & QA Bebas Bug <- [04] Pengembangan Kode
