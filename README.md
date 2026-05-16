@@ -1,5 +1,5 @@
-# 💫 About Me:
-Saya adalah seorang developer yang berfokus pada pengembangan web dan Android. 
+# About Me:
+Saya adalah seorang mahasiswa dan developer yang berfokus pada pengembangan web dan Android. 
 Saya memiliki pengalaman dalam membangun aplikasi menggunakan HTML, CSS, JavaScript, Java, Kotlin, Android XML, dan Firebase. 
 Selain itu, saya juga terbiasa menggunakan AI modern seperti Gemini dan Claude untuk membantu pengembangan aplikasi dan meningkatkan produktivitas.
 
